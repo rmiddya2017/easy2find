@@ -1,0 +1,7 @@
+.login-btn{
+	margin-right: 40px;
+}
+.dropdown-item:hover{
+	background-color: blue;
+	color: white;
+}
